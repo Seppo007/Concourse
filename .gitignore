@@ -91,3 +91,9 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
+
+# Docker Credentials
+.env
+
+# CI Credentials
+credentials.yml
