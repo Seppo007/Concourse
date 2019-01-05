@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Printed out system version"
+echo "Hello World!"
